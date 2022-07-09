@@ -16,13 +16,13 @@ The goal of this project was to increase the accessibilty of our clients website
 
 To Run:
 
-* Open this link in your browser to see the deployed website: 
+* Open this link in your browser to see the deployed website: [Horiseon Webpage](https://cooper2016.github.io/codingChallenge1/)
 
 This is what the webpage should look:
 
-![Picture of the Website](./Main/assets/images/HoriseonWebpage.png)
+![Picture of the Website](./assets/images/HoriseonWebpage.png)
 
 
-
+t 
 # Author 
 Harrison Cooper
